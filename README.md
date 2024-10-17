@@ -24,9 +24,10 @@ To run this project locally, follow these steps:
 1. Clone the repository: 
    ```bash
    git clone https://github.com/yourusername/credit-card-fraud-detection.git
-## 2.Install the required libraries
+ 2.Install the required libraries
     ```bash
     pip install -r requirements.txt
+
 🌟 Conclusion
 This project not only demonstrates the power of machine learning in combating financial fraud but also serves as a practical example of using logistic regression for binary classification problems. Feel free to explore, contribute, and enhance this project! 🚀
 
